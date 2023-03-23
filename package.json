@@ -1,0 +1,22 @@
+{
+  "name": "crispy-broccoli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootcamp-Mo/crispy-broccoli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bootcamp-Mo/crispy-broccoli/issues"
+  },
+  "homepage": "https://github.com/bootcamp-Mo/crispy-broccoli#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}

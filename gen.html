@@ -1,0 +1,66 @@
+GIVEN a command-line application that accepts user input
+
+WHEN I am prompted for information about my application repository
+THEN a high-quality, professional README.md is generated with the title
+of my project and sections entitled Description, Table of Contents,
+Installation, Usage, License, Contributing, Tests, and Questions
+
+WHEN I enter my project title
+THEN this is displayed as the title of the README
+
+WHEN I enter a description, installation instructions, usage information,
+contribution guidelines, and test instructions
+THEN this information is added to the sections of the README entitled
+Description, Installation, Usage, Contributing, and Tests
+
+WHEN I choose a license for my application from a list of options
+THEN a badge for that license is added near the top of the README
+and a notice is added to the section of the README entitled License
+that explains which license the application is covered under
+
+WHEN I enter my GitHub username
+THEN this is added to the section of the README entitled Questions,
+with a link to my GitHub profile
+
+WHEN I enter my email address
+THEN this is added to the section of the README entitled Questions,
+with instructions on how to reach me with additional questions
+
+WHEN I click on the links in the Table of Contents
+THEN I am taken to the corresponding section of the README
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <h1>${title}</h1>
+    </header>
+    <main>
+        <h2>Description: </h2>
+        <p>${description}</p>
+        <h2>Table of Contents</h2>
+        <p>${tableCont}</p>
+        <h2>Install</h2>
+        <p>${install}</p>
+        <h2>Usage</h2>
+        <p>${usage}</p>
+        <h2>License</h2>
+        <p>${license}</p>
+        <h2>Contributing</h2>
+        <p>${contribute}</p>
+        <h2>Tests</h2>
+        <p>${tests}</p>
+        <h2>Questions</h2>
+        <p>${questions}</p>
+    </main>
+</body>
+
+</html>
