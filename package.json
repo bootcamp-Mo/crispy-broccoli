@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bootcamp-Mo/crispy-broccoli#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "inquirer": "^8.2.4"
   }
 }
