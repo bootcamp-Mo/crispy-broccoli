@@ -22,7 +22,7 @@ const generateREADME =
 # ${projectName}
 
 ## Description
-    ${description}
+${description}
         
 ## Table of Contents
 1. [Description](#description)
@@ -34,31 +34,31 @@ const generateREADME =
 7. [Questions](#questions)
         
 ## Installation
-    ${install}
+${install}
         
 ## Usage
-    ${usage}
+${usage}
         
 ## License
-    ${getLicenseBadge(license)}
+${getLicenseBadge(license)}
         
 ## Contributing
-    ${contribute}
+${contribute}
         
 ## Tests
-    ${tests}
+${tests}
         
 ## Questions
-	${generateQuestionsSection(githubUsername, email)}
+${generateQuestionsSection(githubUsername, email)}
     `;
 
 // This function generates the Questions section of the README 
 // using the provided GitHub username and email address.
 const generateQuestionsSection = (githubUsername, email) => {
-	return `If you have any questions, feel free to reach out through the following channels:
+	return `Questions? Feel free to reach out through the following channels:
 
 - [GitHub](https://github.com/${githubUsername})
-- Email: ${email} (please use "GitHub Project Inquiry" as the subject)
+- Email: ${email} 
 `;
 };
 
