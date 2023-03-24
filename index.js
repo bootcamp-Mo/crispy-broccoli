@@ -105,11 +105,6 @@ inquirer
 		},
 		{
 			type: 'input',
-			name: 'questions',
-			message: 'Questions: '
-		},
-		{
-			type: 'input',
 			name: 'githubUsername',
 			message: 'GitHub username: '
 		},

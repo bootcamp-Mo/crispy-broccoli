@@ -1,8 +1,8 @@
 
-# dasklf
+# Crispy Broccoli
 
 ## Description
-    gsfdg
+this is a readme generator
         
 ## Table of Contents
 1. [Description](#description)
@@ -14,24 +14,24 @@
 7. [Questions](#questions)
         
 ## Installation
-    dfgsd
+node, npm, fs, inquire
         
 ## Usage
-    sdfgsd
+to make a reademe
         
 ## License
-    [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
         
 ## Contributing
-    sdfg
+me
         
 ## Tests
-    fsdgs
+this
         
 ## Questions
-	If you have any questions, feel free to reach out through the following channels:
+Questions? Feel free to reach out through the following channels:
 
-- [GitHub](https://github.com/sdfgsdfg)
-- Email: sdfgsdf (please use "GitHub Project Inquiry" as the subject)
+- [GitHub](https://github.com/bootcamp-mo)
+- Email: mo.sherred@gmail.com 
 
     
