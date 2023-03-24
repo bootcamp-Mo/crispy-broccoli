@@ -34,6 +34,7 @@ Questions? Feel free to reach out through the following channels:
 - [GitHub](https://github.com/bootcamp-mo)
 - Email: mo.sherred@gmail.com 
 
-<iframe src="https://drive.google.com/file/d/1FGY9zrRcuIFJ2lOk5sjjyG12bqsH5mzZ/preview" width="640" height="480"></iframe>
-
+[![Video Thumbnail](https://drive.google.com/file/d/1FGY9zrRcuIFJ2lOk5sjjyG12bqsH5mzZ/view
+)](https://drive.google.com/file/d/1FGY9zrRcuIFJ2lOk5sjjyG12bqsH5mzZ/view
+)
     
